@@ -13,7 +13,7 @@
 - [Authors](#authors)
 
 ## About <a name = "about"></a>
-Alight coding challenges. This project has 3 endpoints for the following:\
+Alight coding challenge. This project has 3 endpoints for the following:\
 Create user\
 Update user\
 Get user by Id
