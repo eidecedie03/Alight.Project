@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/WebApi/Alight.Project.db-wal
+/WebApi/Alight.Project.db-shm
+/WebApi/Alight.Project.db
