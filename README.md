@@ -23,10 +23,10 @@ Passing a user request without employment would simply delete all the employment
 Employment will be created if the data doesn't have ID and update will happen if it has an ID.
 
 ## Design Patterns and Principles <a name = "patterns"></a>
-Repository Pattern
-Unit Of Work
-DRY
-SOLID
+- Repository Pattern
+- Unit Of Work
+- DRY
+- SOLID
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
