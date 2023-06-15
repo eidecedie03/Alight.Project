@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Builder;
 
 namespace Application.Common.Extensions
 {
-    public static class ApplicationBuilderExtensions
+    public static class BusinessBuilderExtensions
     {
         public static IApplicationBuilder AddGlobalErrorHandler(this IApplicationBuilder applicationBuilder)
-            => applicationBuilder.UseMiddleware<GlobalErrorHandlingMiddleware>();
+        {
+            return applicationBuilder.UseMiddleware<GlobalErrorHandlingMiddleware>();
+        }
     }
 }
