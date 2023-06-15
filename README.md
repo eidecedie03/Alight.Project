@@ -5,26 +5,21 @@
 
 </div>
 
----
-
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
+ 
 ## 📝 Table of Contents
 - [About](#about)
-- [patterns](#design_patterns)
+- [Design Patterns](#design_patterns)
 - [Built Using](#built_using)
 - [Authors](#authors)
 
 ## About <a name = "about"></a>
-Alight coding challenges. This project has 3 endpoints for the following
-Create user
-Update user
+Alight coding challenges. This project has 3 endpoints for the following:\
+Create user\
+Update user\
 Get user by Id
 
-Update user endpoint modifies the employments data
-Passing a user request without employment would simply delete all the employments for that specific user
+Update user endpoint modifies the employments data.\
+Passing a user request without employment would simply delete all the employments for that specific user.\
 Employment will be created if the data doesn't have ID and update will happen if it has an ID.
 
 ## Design Patterns and Principles <a name = "patterns"></a>
